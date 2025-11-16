@@ -14,6 +14,8 @@ int main () {
 
     printf("adding one variable name");
 
+    printf("add another variable name");
+
 
 
     return 0;
