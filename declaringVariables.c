@@ -20,6 +20,8 @@ int main () {
     printf("Sample for Merging");
      printf("add another data type");
 
+    printf("sample code for pulling");
+
 
 
     return 0;
