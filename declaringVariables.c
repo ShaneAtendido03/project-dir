@@ -16,6 +16,8 @@ int main () {
 
     printf("add another variable name");
     printf("add code for another sample");
+    
+    printf("Sample for Merging");
 
 
 
