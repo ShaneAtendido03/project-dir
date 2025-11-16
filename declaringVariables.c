@@ -1,0 +1,20 @@
+//Atendido, Shane Ashley P. DIT 1-2
+#include <stdio.h>
+
+int main () {
+    int age = 18;
+    float grade = 1.25;
+    char letter = 'U';
+    char name [] = "SHANE";
+
+    printf("Age: %d\n", age);
+    printf("Grade: %.2f\n", grade);
+    printf("Letter: %c\n", letter);
+    printf("Name: %s\n", name);
+
+    printf("adding one variable name");
+
+
+
+    return 0;
+}
