@@ -18,6 +18,7 @@ int main () {
     printf("add code for another sample");
     
     printf("Sample for Merging");
+     printf("add another data type");
 
 
 
